@@ -1,0 +1,23 @@
+Group,Group2,German label,coverage,Calculation engine,T&C reference,WC name undefined,Limit ,Deductible,German Label,English Label
+,,,,,,,,,,
+Vollkasko/ Fully comprehensive,,Versicherungssumme (VS),Limit (VS),,2a.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,Selbstbehalt,Deductible,,,,0,0,0,0
+,Reparatur,Unfall,,,,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,Vandalismus,Vandalism,,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,Fall und Sturzschäden,Fall and drop damage,,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,Bedienungsfehler/ unsachgemäße Handhabung,Operating errors/ improper handling,,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,Elektronikschäden,Electronic damage,,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,"Brand, Explosion, Blitzschlag","Fire, explosion, lightning",,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,"Sturm, Hagel, Überschwemmung, Lawinen, Erdrutsch","Storm, hail, flood, avalanches, landslide",,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,"Material-, Produktions- und Konstruktionsfehler nach Ablauf der gesetzlichen Gewährleistungsfrist","Material, production and design defects after expiry of the statutory warranty period",,2a.2.1,,<SumInsured> 0 - 12.000,24 monatigen gesetzlichen Ge­ wahrleistungsfrist/ 24 months - Statutory warranty period,bis zur vereinbarten VS,up to <Sum Insured>
+,,Feuchtigkeit,Humidity,,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,"Kurzschluss, Induktion, Überspannung","Short circuit, induction, overvoltage",,2a.2.1,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,Totalschaden,Totalschaden,Total loss,,2a.2.2,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,Abhandenkommen,Diebstahl,Theft,,2a.2.3,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,Einbruchdiebstahl,Burglary,,2a.2.3,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+,,Raub,Robbery,,2a.2.3,,<SumInsured> 0 - 12.000,,bis zur vereinbarten VS,up to <Sum Insured>
+Arbeitgeberschutz/Employer Payment Protection,Wartezeit,Wartezeit,Waiting period,,2b.5,,<1 month>,,1 Monat,1 Month
+,Arbeitsunfähigkeit,Arbeitsunfähigkeit,Incapacity to work,,2b.4.1,,<5.000Euros>,ab dem 43. Tag/ From the 43rd day,max. bis 5.000,max. up to 5.000
+,Ausscheiden des Mitarbeiters,Ausscheiden des Mitarbeiters,Resignation of the employee,,2b.4.2,,<Einzelleasingvertrag vereinbarten monatlichen Leasingrate bzw. anteiligen monatlichen Leasingrate.>,,monatlichen Leasingrate,monthly leasing rate
+,Unfalltod,Unfalltod,Accidental death,,2b.4.3,,<Einzelleasingvertrag vereinbarten monatlichen Leasingrate bzw. anteiligen monatlichen Leasingrate.>,,monatlichen Leasingrate,monthly leasing rate
+,Elternzeit,Elternzeit,Parental leave,,2b.4.4,,<max. 12 Monate>,,monatlichen Leasingrate,monthly leasing rate

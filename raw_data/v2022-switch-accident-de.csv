@@ -1,0 +1,211 @@
+Insurances,Parameter Name Coverages,German Label,Compact,Comfort,Comfort+,Switch,Assistance - Premium,Assistance - Premium Plus,Reference to T&C,English Label
+,,,,,,,,,,
+"Was umfasst die Unfallversicherung?
+ - Erweiterter Unfallbegriff",product.accident.coverage.increased-exertion,Erhöhte Kraftanstrengung,versichert,versichert,versichert,versichert,,,A.1.4.1,Increased exertion of strength
+,product.accident.coverage.self-motion,Eigenbewegungen,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.2,Self-motion 
+,product.accident.coverage.drowning-or-suffocation,Ertrinken oder Ersticken,versichert,versichert,versichert,versichert,,,A.1.4.3,Drowning and suffocation 
+,product.accident.coverage.frostbite,Erfrierungen,versichert,versichert,versichert,versichert,,,A.1.4.4,Frostbite 
+,product.accident.coverage.self-defense-or-rescue,Verteidigung und Rettung,versichert,versichert,versichert,versichert,,,A.1.4.5,"Damage to health during rescue operations / defense and rescue of people, animals and property"
+,product.accident.coverage.poison.food-gases-plants,"Vergiftungen durch Nahrungsmittel, Gase oder Dämpfe, Pflanzen",versichert,versichert,versichert,versichert,,,A.1.4.6,"Plant poisoning (touching, swallowing, chewing and/or spitting out)"
+,product.accident.coverage.poison.medication-drugs,Vergiftungen durch versehentlicher / falscher Einnahme von Medikamenten sowie durch Einnahme schädlicher Stoffe mit Ausnahme von Drogen,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.6,Poisonings caused by ingestion of harmful substances other than drugs
+,product.accident.coverage.alcohol.young-people,Alkoholvergiftungen bei Minderjährigen bis Vollendung des 14. Lebensjahres,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.6,Alcohol poisoning (minors up to the age of 14)
+,product.accident.coverage.chemical-burn-young-people,Verätzungen - durch Einnahme fester oder flüssiger Stoffe bei Minderjährigen bis Vollendung des 14. Lebensjahres,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.6,Chemical burns (minors up to the age of 14) as a result of ingestion of solid or liquid substances 
+,product.accident.coverage.radiation,"Strahleneinwirkungen, auch Laser-, Röntgen-, Maser- und ultraviolette Strahlen",versichert,versichert,versichert,versichert,,,A.1.4.7,"Radiation effects due to curative measures or interventions on the body or due to laser, X-ray, maser and ultraviolet radiation"
+,product.accident.coverage.radiation-max-duration,Maximale Bestrahlungsdauer,bis zu 10 Stunden,bis zu 10 Stunden,bis zu 7 Tage,bis zu 10 Stunden,,,A.1.4.7,Timewise limitations regarding the radiation effects
+,product.accident.coverage.sunburn,Sonnenbrand und Sonnenstich,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.7,Sunburn or sting 
+,product.accident.coverage.blast,"Explosions-, Schall- oder sonstige Druckwellen sowie
+mechanische, chemische oder elektrische Einwirkung",nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.8,"Explosive, sonic or other pressure waves as well as mechanical, chemical or electrical action"
+,product.accident.coverage.blast-max-duration,Maximale Einwirkungsdauer,nicht versichert,bis zu 10 Stunden,bis zu 7 Tage,nicht versichert,,,A.1.4.8,"Maximum time of exposure (Explosive, sonic or other pressure waves as well as mechanical, chemical or electrical action)"
+,product.accident.coverage.hostage,Nicht- oder Falscheinnahme von Medikamenten infolge von Entführung/Geiselnahme oder Notsituation,versichert,versichert,versichert,versichert,,,A.1.4.9,Damage to health due to non-use or incorrect use of medication as a result of of a kidnapping or hostage-taking or due to an emergency situation
+,product.accident.coverage.violence,Gewalteinwirkung,versichert,versichert,versichert,versichert,,,A.1.4.10,"Victims of assault, hostage-taking, rampage and other violence resulting in injury"
+,product.accident.coverage.unconsciousness,"Herz-Kreislauf-Störungen, Ohnmachtsanfälle, Übermüdung, Einschlafen infolge von Übermüdung, erstmalig im Leben stattgefundene epileptische und andere Krampfanfälle",nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.11,(Accidents resulting from) cardiovascular disorders and fainting spells
+,product.accident.coverage.heart-attack,"Herzinfarkt oder Schlaganfall, Medikamenteneinnahme",nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.11,"heart attack, stroke "
+,product.accident.coverage.alcohol.car,alkoholbedingte Bewusstseinsstörung beim Führen von KfZ,"versichert, begrenzt auf 0,50 ‰","versichert, begrenzt auf 1,50 ‰","versichert, begrenzt auf 1,50 ‰","versichert, begrenzt auf 0,50 ‰",,,A.1.4.11,"disorders of consciousness caused by alcohol, drugs and while driving of motor vehicles to "
+,product.accident.coverage.alcohol.non-car,alkoholbedingte Bewusstseinsstörung bei sonstigen Unfällen (nicht Führen von KfZ),"versichert, begrenzt auf 2‰","versichert, begrenzt auf 2‰","versichert, keine Promille-Grenze","versichert, begrenzt auf 2‰",,,A.1.4.11,Drunkenness in all accidents except when driving motor vehicles with a blood alcohol content up to
+,product.accident.coverage.knockout-drops,ungewollte Einnahme von K.-o.-Tropfen,versichert,versichert,versichert,versichert,,,A.1.4.11,Mental or consciousness disorders as a result of the involuntary ingestion of knockout drops 
+,product.accident.coverage.HAPE-HACE,Höhenlungenödem oder Höhenhirnödem aufgrund akuter Höhenkrankheit,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.11,"Damage to health due to 
+High altitude pulmonary edema (HAPE) or 
+High altitude cerebral edema (HACE) due to 
+acute mountain sickness (AMS)"
+,product.accident.coverage.aircraft,Benutzung eines Luftfahrzeugs,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.12,"use of an aircraft, also e.g. ride in a hot air balloon, parachute or tandem jump "
+,product.accident.coverage.flight-school,Flugschulunterricht,versichert,versichert,versichert,versichert,,,A.1.4.12,"flight school lessons, because there is license to fly is not yet is required"
+,product.accident.coverage.oxygen-deprivation,"Flüssigkeits-, Nahrungsmittel- und Sauerstoffentzug",versichert,versichert,versichert,versichert,,,A.1.4.13,"Involuntary deprivation of fluids, deprivation of food or oxygen "
+,product.accident.coverage.special-bone-fractures,Bruch des Oberschenkelhals- oder Oberarmknochens,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.14,"Femoral neck or upper arm fracture, regardless of cause"
+,product.accident.coverage.diving,Tauchtypische Gesundheitsschäden,nicht versichert,"versichert, begrenzt auf 50.000 €",versichert,nicht versichert,,,A.1.4.15,Diving typical health damages and pressure chamber costs to 
+,product.accident.coverage.infections.basic,Infektionen - Basisschutz,versichert,versichert,versichert,versichert,,,A.1.4.16.a,"rabies, tetanus "
+,product.accident.coverage.infections.extended,Infektionen - Erweiterter Schutz,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.16.b,"Infectious diseases: 29 defined infectious diseases such as Lyme disease, pertussis, scarlet fever, rabies, tetanus (with 3 months waiting period)"
+,product.accident.coverage.infections.airborne,"Tröpfchen-, Kontakt- und Schmierinfektionen",nicht versichert,nicht versichert,"versichert, begrenzt auf 2.000 €",nicht versichert,,,A.1.4.16.b,"Droplet, contact and smear infections"
+,product.accident.coverage.vaccination-general,Impfschäden,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.16.b,Vaccination damage
+,product.accident.coverage.vaccination-covid,Impfschaden bei Corona-Schutzimpfung,nicht versichert,nicht versichert,"versichert, begrenzt auf 2.000€",nicht versichert,,,A.1.4.16.b,Vaccination damage due to covid vaccinations
+,product.accident.coverage.allergic-reactions,Allergische Reaktionen durch Insektenstiche und -bisse und geringfügige Haut- oder Schleimhautverletzungen,nicht versichert,"versichert, bei Anzeige innerhalb von 4 Wochen","versichert, bei Anzeige innerhalb von 4 Wochen",nicht versichert,,,A.1.4.17,"allergic reactions to insect bites/stings and minor skin or mucous membrane mucous membrane injuries, if reported a given period, incl. inpatient desensitization measure"
+,product.accident.coverage.dermal-injury,Hautverletzungen durch Tiere oder Insekten (z.B. Meningitis),nicht versichert,"versichert, mit 3 
+Monaten 
+Wartezeit","versichert, mit 3 
+Monaten 
+Wartezeit",nicht versichert,,,A.1.4.17,"skin injuries caused by animals or insects (e.g., bites or stings), e.g. or stings), e.g., meningitis"
+,product.accident.coverage.races-general,Fahrveranstaltungen,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.18,Driving events for the purpose of achieving an average speed 
+,product.accident.coverage.races-go-kart,Freizeitrennen mit Karts auf Kartbahnen in Europa,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.18,Recreational racing with karts on kart tracks in Europe
+,product.accident.coverage.driving-training,Fahrsicherheitstrainings,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.18,Driving safety training for improvement of driving skills.
+,product.accident.coverage.professional-flights,Flüge aus beruflichen Gründen,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.19,"Exercise of professional activities, e.g. as a photographer for aerial photography for traffic control or as a doctor/medical personnel for rescue and medical flights"
+,product.accident.coverage.firework,Selbstgebaute Feuerwerkskörper,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.1.4.20,Co-insurance of minors (younger than 18 years) when handling homemade fireworks 
+,product.accident.coverage.psychic,Psychische und nervöse Störungen infolge eines Unfalls,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.21,Mental disorders as a result of accident-related organic damage 
+,product.accident.coverage.vehicles-young-people,Lenken von Fahrzeugen unter 16 Jahren oder entmündigt,nicht versichert,versichert,versichert,nicht versichert,,,A.1.4.22,Driving a vehicle without a driver's license up to the age of 16 
+Welche Leistungen umfasst Ihre Unfallversicherung? - Invaliditätsleistung,product.accident.coverage.disability.deadline.medical-examination,Eintritt und ärztliche Feststellung der Invalidität innerhalb von,15 Monate,15 Monate,24 Monate,15 Monate,,,A.2.1.1.2,Time limit for the occurrence of invalidity
+,product.accident.coverage.disability.deadline.inform-insurer,Frist zur Geltendmachung und ärztlichen Feststellung der Invalidität,15 Monate,18 Monate,36 Monate,15 Monate,,,A.2.1.1.3,Time limit for claiming and medical determination of disability 
+,product.accident.coverage.disability.early-payment-basic,Invaliditätsleistung vor Abschluss des Heilverfahrens - Basisschutz,versichert,versichert,versichert,versichert,,,A.2.1.2.1.a,"(Basic coverage)
+Full payment before completion of the healing process in case of loss of"
+,product.accident.coverage.disability.early-payment-extended,Invaliditätsleistung vor Abschluss des Heilverfahrens - Erweiterter Schutz,nicht versichert,versichert,versichert,nicht versichert,,,A.2.1.2.1.b,"(Extended coverage)
+Full payment before completion of the healing process in case of loss of"
+,product.accident.coverage.disability.limb-table.both-legs,Gliedertaxe - Beide Beine,100%,100%,100%,100%,,,A.2.1.2.2.1,Both legs
+,product.accident.coverage.disability.limb-table.one-legs,Gliedertaxe - Bein,70%,80%,85%,70%,,,A.2.1.2.2.1,Leg
+,product.accident.coverage.disability.limb-table.half-thigh,"Gliedertaxe - Bein bis zur Mitte des 
+Oberschenkels ",65%,75%,80%,65%,,,A.2.1.2.2.1,"Leg up to the middle of the 
+thigh "
+,product.accident.coverage.disability.limb-table.knee,"Gliedertaxe - Bein bis unterhalb des 
+Knies ",50%,60%,80%,50%,,,A.2.1.2.2.1,"Leg to below the knee 
+knee "
+,product.accident.coverage.disability.limb-table.half-lower-leg,"Gliedertaxe - Bein bis zur Mitte des
+Unterschenkels",45%,55%,80%,45%,,,A.2.1.2.2.1,"Leg up to the middle of the
+lower leg"
+,product.accident.coverage.disability.limb-table.foot,Gliedertaxe - Fuß,40%,50%,70%,40%,,,A.2.1.2.2.1,Foot
+,product.accident.coverage.disability.limb-table.big-toe,Gliedertaxe - große Zehe,5%,15%,20%,5%,,,A.2.1.2.2.1,big toe
+,product.accident.coverage.disability.limb-table.non-big-toe,Gliedertaxe - andere Zehe,2%,5%,10%,2%,,,A.2.1.2.2.1,other toe
+,product.accident.coverage.disability.limb-table.arm,Gliedertaxe - Arm,70%,75%,80%,70%,,,A.2.1.2.2.1,Arm
+,product.accident.coverage.disability.limb-table.above-elbow,"Gliedertaxe - Arm bis oberhalb des
+Ellenbogengelenks",65%,70%,80%,65%,,,A.2.1.2.2.1,"Arm up to above
+elbow joint"
+,product.accident.coverage.disability.limb-table.below-elbow,"Gliedertaxe - Arm unterhalb des
+Ellenbogengelenks",60%,70%,80%,60%,,,A.2.1.2.2.1,"Arm below the
+elbow joint"
+,product.accident.coverage.disability.limb-table.hand,Gliedertaxe - Hand,55%,70%,75%,55%,,,A.2.1.2.2.1,Hand
+,product.accident.coverage.disability.limb-table.thumb,Gliedertaxe - Daumen,20%,25%,35%,20%,,,A.2.1.2.2.1,Thumb
+,product.accident.coverage.disability.limb-table.forefinger,Gliedertaxe - Zeigefinger,10%,15%,25%,10%,,,A.2.1.2.2.1,Index finger
+,product.accident.coverage.disability.limb-table.other-fingers,Gliedertaxe - anderer Finger,5%,7%,15%,5%,,,A.2.1.2.2.1,other finger
+,product.accident.coverage.disability.limb-table.all-fingers,Gliedertaxe - sämtliche Finger einer Hand jedoch höchstens,55%,70%,75%,55%,,,A.2.1.2.2.1,maximum for all fingers of a hand limited at
+,product.accident.coverage.disability.limb-table.one-eye,Gliedertaxe - ein Auge,50%,60%,65%,50%,,,A.2.1.2.2.1,one eye
+,product.accident.coverage.disability.limb-table.one-kidney,Gliedertaxe - eine Niere,25%,25%,25%,25%,,,A.2.1.2.2.1,one kidney
+,product.accident.coverage.disability.limb-table.both-kidneys,Gliedertaxe - beide Nieren ,100%,100%,100%,100%,,,A.2.1.2.2.1,both kidneys 
+,product.accident.coverage.disability.limb-table.gallbladder,Gliedertaxe - Gallenblase,0%,10%,10%,0%,,,A.2.1.2.2.1,gall bladder
+,product.accident.coverage.disability.limb-table.spleen-adults,Gliedertaxe - Milz ,0%,10%,10%,0%,,,A.2.1.2.2.1,Spleen 
+,product.accident.coverage.disability.limb-table.spleen-young-people,Gliedertaxe - Milz bei Kindern vor Vollendung des 15. Lebensjahres ,0%,20%,20%,0%,,,A.2.1.2.2.1,spleen in children before 15 years of age 
+,product.accident.coverage.disability.limb-table.stomach,Gliedertaxe - Magen,0%,20%,20%,0%,,,A.2.1.2.2.1,Stomach
+,product.accident.coverage.disability.limb-table.intestine,"Gliedertaxe - Zwölffinger-, Dünn-, Dick- oder Enddarm",0%,25%,25%,0%,,,A.2.1.2.2.1,"duodenum, small, large or rectum"
+,product.accident.coverage.disability.limb-table.lung,Gliedertaxe - Lungenflügel,0%,50%,50%,0%,,,A.2.1.2.2.1,Lungs
+,product.accident.coverage.disability.limb-table.one-ear,Gliedertaxe - Gehör auf einem Ohr,30%,45%,50%,30%,,,A.2.1.2.2.1,Hearing in one ear
+,product.accident.coverage.disability.limb-table.both-ears,Gliedertaxe - Gehör auf beiden Ohren,60%,60%,70%,60%,,,A.2.1.2.2.1,Hearing in both ears
+,product.accident.coverage.disability.limb-table.scent,Gliedertaxe - Geruchssinn,15%,20%,30%,15%,,,A.2.1.2.2.1,Sense of smell
+,product.accident.coverage.disability.limb-table.taste,Gliedertaxe - Geschmackssinn,5%,15%,30%,5%,,,A.2.1.2.2.1,Sense of taste
+,product.accident.coverage.disability.limb-table.voice,Gliedertaxe - Stimme,50%,50%,100%,50%,,,A.2.1.2.2.1,Voice
+,product.accident.coverage.disability.limb-table.pre-existing-defects-ear-eye,"Erweiterter Invaliditätsgrad bei Vorschädigung an Auge / Ohr (War ein Auge vor dem Unfall bereits vollständig verloren oder funktionsunfähig, gilt für das andere Auge ein Invaliditätsgrad von 100 %. War das Gehör auf einem Ohr vor Eintritt des Unfalls bereits vollständig verloren, gilt für das Gehör auf dem anderen Ohr ein Invaliditätsgrad von 80 %)",nicht versichert,nicht versichert,versichert,nicht versichert,,,n.a.,"Extended degree of disability in the event of prior damage to the eye / ear (If one eye was already completely lost or non-functional before the accident, a degree of disability of 100 % applies to the other eye. If the hearing in one ear was already completely lost before the accident occurred, a degree of disability of 80 % applies to the hearing in the other ear)."
+Welche Leistungen umfasst Ihre Unfallversicherung? - Kosten für Zahnersatz und kosmetische Operationen,product.accident.coverage.cosmetic.sum-insured,"Kosmetische Operationen sowie Zahnbehandlungs-, Zahnersatz- und Zahnlaborkosten","versichert, begrenzt auf 10.000 €","versichert, begrenzt auf 20.000 €","versichert, begrenzt auf 50.000 €","versichert, begrenzt auf 10.000 €",,,A.2.2.1,Cosmetic surgery
+,product.accident.coverage.cosmetic.deadline-adults,Frist für Erwachene bei kosmetischen Operationen und Zahnbehandlung nach dem Unfall,5 Jahre,5 Jahre,5 Jahre,5 Jahre,,,A.2.2.1,"Cosmetic surgery
+within"
+,product.accident.coverage.cosmetic.deadline-young-people,Höchstalter für Minderjährige bei kosmetischen Operationen und Zahnbehandlung nach dem Unfall,Vollendung des 21. Lebensjahres,Vollendung des 25. Lebensjahres,Vollendung des 25.Lebensjahres,Vollendung des 21. Lebensjahres,,,A.2.2.1,Cosmetic surgery for minors until turning
+,product.accident.coverage.cosmetic.breast-cancer,Kosmetische Operationen aufgrund von Brustkrebs,nicht versichert,nicht versichert,"versichert, begrenzt auf 10.000 €, mit 3 Monaten Wartezeit",nicht versichert,,,A.2.2.2,Cosmetic surgery due to breast cancer up to
+Welche Leistungen umfasst Ihre Unfallversicherung? - Übergangsleistung,product.accident.coverage.disability.transitional.deadline,Frist für Geltendmachung der Übergangsleistung,nicht versichert,7 Monate,7 Monate,nicht versichert,,,"A.2.3.1 &
+A.2.4.1",Deadline for claiming the transitional / immediate benefit
+,product.accident.coverage.disability.transitional.sum-insured,Höhe der Übergangsleistung,nicht versichert,"6,5% der Invaliditätssumme, max. 20.000 €","8,0% der Invaliditätssumme, max. 20.000 €",nicht versichert,,,A.2.3.2,Transitional benefits (also without death benefit) up to
+Welche Leistungen umfasst Ihre Unfallversicherung? - Sofortleistung,product.accident.coverage.disability.immediate.deadline,Frist für Geltendmachung der Sofortleistung,nicht versichert,7 Monate,7 Monate,nicht versichert,,,"A.2.3.1 &
+A.2.4.1",Deadline for claiming the transitional / immediate benefit
+,product.accident.coverage.disability.immediate.sum-insured,Höhe der Sofortleistung,nicht versichert,"  10,000 € ","  20,000 € ",nicht versichert,,,A.2.4.2,Immediate benefits (also without death benefit) up to
+"Welche Leistungen umfasst Ihre Unfallversicherung? - Kosten für Such-, Bergungs- oder Rettungseinsätze",product.accident.coverage.rescue,"Kosten für Such-, Bergungs- oder Rettungseinsätze ","versichert, begrenzt auf 10.000 €","versichert, begrenzt auf 20.000 €",versichert,"versichert, begrenzt auf 10.000 €",,,A.2.5,"Costs for search, rescue or recovery operations up to "
+,product.accident.coverage.transfer,Kosten für Überführung,nicht versichert,"versichert, bregrenzt auf 300 €","versichert, begrenzt auf 1.000 €",nicht versichert,,,A.2.5,Costs for repatriation up to 
+,product.accident.coverage.travel-costs-relatives,Mehrkosten für mitreisende Angehörige,nicht versichert,"versichert, bregrenzt auf 300 €","versichert, begrenzt auf 1.000 €",nicht versichert,,,A.2.5,Additional costs for accompanying relatives up to 
+Welche Leistungen umfasst Ihre Unfallversicherung? - Komageld,product.accident.coverage.coma.sum-insured,Komageld - Zahlungshöhe,nicht versichert,30 € pro Tag,30 € pro Tag,nicht versichert,,,A.2.6.2,coma money: Payment amount
+,product.accident.coverage.coma.duration,Komageld - Dauer,nicht versichert,"ab dem 8. Tag, bis zu 12 Wochen","ab dem 1. Tag, bis zu 3 Jahre",nicht versichert,,,A.2.6.2,coma money: Payment length
+Welche Leistungen umfasst Ihre Unfallversicherung? - Gipsgeld,product.accident.coverage.cast.sum-insured,Gipsgeld,nicht versichert,nicht versichert," versichert, begrenzt auf 250 €",nicht versichert,,,A.2.7.2,Plaster money: compensation for pain and suffering after bone fractures
+Welche Leistungen umfasst Ihre Unfallversicherung? - Pflegegeld,product.accident.coverage.disability.care.sum-insured,Pflegegeld - Zahlungshöhe,nicht versichert,nicht versichert,"– 20 € pro Tag bei Pflegegrad 2, 
+– 40 € pro Tag bei Pflegegrad 3, 
+– 60 € pro Tag ab Pflegegrad 4 ",nicht versichert,,,A.2.8.2,Care allowance: Payment amount
+,product.accident.coverage.disability.care.duration,Pflegegeld - Dauer,nicht versichert,nicht versichert,"für die Dauer der Pflegegradzuerkennung, längstens bis zu ein Jahr ab dem Unfalltag",nicht versichert,,,A.2.8.2,Nursing allowance: Payment length
+Welche Leistungen umfasst Ihre Unfallversicherung? - Eigenbehaltskosten,product.accident.coverage.inpatient.sum-insured,Eigenbehaltskosten - Zahlungshöhe,nicht versichert,nicht versichert,11 € pro Tag,nicht versichert,,,A.2.9.2,Own treatment costs: Payment amount
+,product.accident.coverage.inpatient.duration,Eigenbehaltskosten - Dauer,nicht versichert,nicht versichert,bis zu 3 Jahren,nicht versichert,,,A.2.9.2,Own treatment costs: Payment length
+Welche Leistungen umfasst Ihre Unfallversicherung? - Vorsorgeversicherung,product.accident.coverage.precaution-kids.duration,Vorsorgeversicherung Kinder - Dauer,nicht versichert,1 Jahr,1 Jahr,nicht versichert,,,A.2.11.2,Duration
+,product.accident.coverage.precaution-kids.disability,Vorsorgeversicherung Kinder - Leistung bei Invalidität,nicht versichert,"  25,000 € ","  100,000 € ",nicht versichert,,,A.2.11.2,Disability
+,product.accident.coverage.precaution-kids.death,Vorsorgeversicherung Kinder - Todesfallleistung,nicht versichert,"  5,000 € ","  10,000 € ",nicht versichert,,,A.2.11.2,Death
+,product.accident.coverage.precaution-kids.hospital,Vorsorgeversicherung Kinder - Krankenhaustagegeld,nicht versichert,10 € pro Tag,20 € pro Tag,nicht versichert,,,A.2.11.2,Hospital allowance
+,product.accident.coverage.precaution-partner.duration,Vorsorgeversicherung Partner - Dauer,nicht versichert,"bis zur nächsten Hauptfälligkeit, mind. 3 Monate","bis zur nächsten Hauptfälligkeit, mind. 3 Monate",nicht versichert,,,A.2.11.2,Duration
+,product.accident.coverage.precaution-partner.disability,Vorsorgeversicherung Partner - Leistung bei Invalidität,nicht versichert,"  50,000 € ","  100,000 € ",nicht versichert,,,A.2.11.2,Disability
+,product.accident.coverage.precaution-partner.death,Vorsorgeversicherung Partner - Todesfallleistung,nicht versichert,"  5,000 € ","  10,000 € ",nicht versichert,,,A.2.11.2,Death
+,product.accident.coverage.precaution-partner.hospital,Vorsorgeversicherung Partner - Krankenhaustagegeld,nicht versichert,10 € pro Tag,20 € pro Tag,nicht versichert,,,A.2.11.2,Hospital allowance
+Welche Leistungen umfasst Ihre Unfallversicherung? - Rooming-In,product.accident.coverage.rooming-in.sum-insured,Rooming-in bis Altersgrenze 14. Lebensjahr - Zahlungshöhe,nicht versichert,"versichert, begrenzt auf 50 € pro Nacht","versichert, begrenzt auf 60 € pro Nacht",nicht versichert,,,A.2.12.2,Rooming-in up to the age of 14 - amount
+,product.accident.coverage.rooming-in.duration,Rooming-in bis Altersgrenze 14. Lebensjahr - Dauer,nicht versichert,bis zu 31 Nächte,unbegrenzt,nicht versichert,,,A.2.12.2,Rooming-in up to the age of 14 - duration
+Welche Leistungen umfasst Ihre Unfallversicherung? - Physiotherapie oder Osteopathie,product.accident.coverage.physiotherapy.sum-insured,Physiotherapie oder Osteopathie - Zahlungshöhe,nicht versichert,nicht versichert,"versichert, begrenzt auf 5.000 €",nicht versichert,,,A.2.13.2,Physiotherapy or osteopathy - amount
+,product.accident.coverage.physiotherapy.duration,Physiotherapie oder Osteopathie - Dauer,nicht versichert,nicht versichert,bis zu 3 Jahren,nicht versichert,,,A.2.13.2,Physiotherapy or osteopathy - duration
+Welche Leistungen umfasst Ihre Unfallversicherung? - Reparatur bzw. Ersatz von Prothesen,product.accident.coverage.prosthesis.sum-insured,Reparatur bzw. Ersatz von Prothesen - Zahlungshöhe,nicht versichert,nicht versichert,"versichert, begrenzt auf 5.000 €",nicht versichert,,,A.2.14.2,Repair or replacement of prostheses - amount
+,product.accident.coverage.prosthesis.deadline,Reparatur bzw. Ersatz von Prothesen - Frist,nicht versichert,nicht versichert,spätestens bis 3 Jahre nach dem Unfalltag,nicht versichert,,,A.2.14.2,Repair or replacement of prostheses - time limitation
+Welche Leistungen umfasst Ihre Unfallversicherung? - Leistungen für Kinder,product.accident.coverage.kids.death,Erhöhte Todesfallleistung,nicht versichert,"doppelte Todesfallleistung, begrenzt auf 50.000 €",doppelte Todesfallleistung,nicht versichert,,,A.2.15.1.2,Increased payment in case of death of both insured parents due to the same accident if minor children remain behind
+,product.accident.coverage.kids.logopedics,Logopädische / Psychische Therapie,nicht versichert,nicht versichert,"versichert, begrenzt auf 1.500 €",nicht versichert,,,A.2.15.2.2,Speech therapy/psychological therapy for children up to 
+,product.accident.coverage.kids.helmet,Helmbonus,nicht versichert,nicht versichert,"25%, Bonus begrenzt auf 50.000 €",nicht versichert,,,A.2.15.3.2," Helmet bonus - 25% on the
+ basic insurance
+sum for disability;"
+,product.accident.coverage.kids.school,"Schulausfall -, Kindergarten-, Kindertagesstättenausfallgeld",nicht versichert,nicht versichert,"20 € pro Tag, bis zu 15 Tage",nicht versichert,,,A.2.15.4.2,"School absence allowance, Kindergarten or day care center absence allowance "
+,product.accident.coverage.kids.tutoring,Kosten für Nachhilfeunterricht,nicht versichert,nicht versichert,"30 € pro Tag, bis zu 100 Tage",nicht versichert,,,A.2.15.5.2,Tutoring after accident of the child
+,product.accident.coverage.kids.braces,Reparatur von Zahnspangen,nicht versichert,nicht versichert,"versichert, begrenzt auf 1.500 €",nicht versichert,,,A.2.15.6.2,Costs for braces repair after accident for minor children up to 
+Zusatzbaustein - Unfall-Rente Plus,product.accident.coverage.pension.continued-payment,Rentenfortzahlung über den Tod hinaus,nicht versichert,nicht versichert,"versichert, bis zu 12 Monate",nicht versichert,,,A.3.1.3,Death benefit - Pension continuation beyond death of IP for
+Zusatzbaustein - Unfall-Tagegeld Plus,product.accident.coverage.daily.duration,Zahlungsdauer - Tagegeld,bis zu 12 Monate,bis zu 12 Monate,bis zu 12 Monate,bis zu 12 Monate,,,A.3.2.3,Payment duration
+Zusatzbaustein - Unfall-Krankenhaustagegeld,product.accident.coverage.hospital.duration,Zahlungsdauer - Krankenhaustagegeld,bis zu 2 Jahre,bis zu 3 Jahre,bis zu 5 Jahre,bis zu 2 Jahre,,,A.3.3.2,Duration of payment
+,product.accident.coverage.hospital.outpatient,Zahlung bei ambulanten chirurgischen Operationen,nicht versichert,"versichert, bis zu 3 Tage","versichert, bis zu 7 Tage",nicht versichert,,,A.3.3.2,Lump sum payment amount for outpatient surgical operations
+,product.accident.coverage.hospital.aftercare,Nachbehandlung über die Frist von 5 Jahren hinaus,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.3.3.2,Follow-up treatment beyond the period of 5 years 
+,product.accident.coverage.hospital.duration-cure,"Zahlungsdauer - Heilbehandlung bei der Kur, in einem Sanatorium, Erholungsheim oder für vollstationäre Rehabilitationsmaßnahmen",nicht versichert,"versichert, bis zu 2 Jahre ","versichert, bis zu 5 Jahre",nicht versichert,,,A.3.3.2,"Duration of payment in case of cure, stay in a sanatorium or convalescent home or full inpatientvrehabilitation treatment"
+,product.accident.coverage.hospital.abroad,Doppeltes Krankenhaus-Tagegeld im Ausland,nicht versichert,"versichert, bis zu 3 Jahre","versichert, bis zu 5 Jahre",nicht versichert,,,A.3.3.2,Double daily hospital allowance abroad
+Zusatzbaustein - Gesenungsgeld,product.accident.coverage.recovery.duration,Zahlungsdauer - Genesungsgeld bei vollstationären Heilbehandlungen,bis zu 100 Tage,bis zu 500 Tage,bis zu 750 Tage,bis zu 100 Tage,,,A.3.4.2,Duration of payment
+,product.accident.coverage.recovery.duration-outpatient,Zahlungsdauer - Genesungsgeld bei ambulaten Operationen,nicht versichert,bis zu 3 Tage,bis zu 7 Tage,nicht versichert,,,A.3.4.2,Convalescence allowance for outpatient surgery
+,product.accident.coverage.recovery.continued-payment,"Anspruch auf Genesungsgeld, wenn die versicherte Person an den Unfallfolgen im Krankenhaus verstirbt",nicht versichert,nicht versichert,versichert,nicht versichert,,,A.3.4.2,"Entitlement to convalescence allowance remains, if the insured person suffers from the consequences of the accident in hospital dies"
+Zusatzbaustein - Todesfallleistung Plus,product.accident.coverage.death.deadline-after-accident,Zeitraum für den Unfalltod nach Unfall,1 Jahr,2 Jahre ,2 Jahre,1 Jahr,,,A.3.5.1.a,Benefit also payable in second year after accident in case of accidental death 
+,product.accident.coverage.death.if-disappeared,Todesfallleistung bei Verschollenheit,21 Tage,21 Tage,21 Tage,21 Tage,,,A.3.5.1.b,Time limit for missing in action
+,product.accident.coverage.death.unconsciousness,Todesfalleistung durch Geistes - oder Bewusstseinsstörung,"versichert, begrenzt auf 5.000 €","versichert, begrenzt auf 10.000 €","versichert, begrenzt auf 20.000 €","versichert, begrenzt auf 5.000 €",,,A.3.5.2,Death benefit in an accident due to mental or consciousness impairment limited to
+,product.accident.coverage.death.public-transportation,Doppelte Zahlung bei Tod in öffentlichen Verkehrsmitteln,nicht versichert,nicht versichert,versichert,nicht versichert,,,A.3.5.2,Double payment in the event of death in public transport
+,product.accident.coverage.death.deadline-report,Meldefrist Unfalltod,6 Monate,keine Frist,keine Frist,6 Monate,,,"A.3.5.1 &
+B.1",Reporting deadline accidental death
+Zusammentreffen von Krankheiten und Gebrechen - Mitwirkung,product.accident.coverage.threshold-reduction,Mitwirkungsanteil,25%,50%,75%,25%,,,"A.2.1.1.2 &
+A.4.2",Reduction of benefits due to illness
+Lebensalter,product.accident.coverage.age-jumps,Vertragsumstellung bei Erreichen eines bestimmten Lebensalters,TBD,TBD,TBD,"Bei Vollendung des:
+- 18. Lebensjahres
+- 65. Lebensjahres",,,A.7.1,Contract conversion upon reaching a certain age
+Obliegenheiten,product.accident.coverage.death.deadline-report,Meldefrist Unfalltod,6 Monate,keine Frist,keine Frist,6 Monate,,,"A.3.5.1 &
+B.1",Reporting deadline accidental death
+Beitragsbefreiung - Kinder,product.accident.coverage.kids.relieve-from-premium,Fortführung der Versicherung bei Tod des Versicherungsnehmers für Kinder bis zur Altersgrenze,"versichert, bis 18 Jahre","versichert, bis 18 Jahre","versichert, bis 21 Jahre","versichert, bis 18 Jahre",,,D.1.6,Premium-free continuation of the contract in the event of the death of the policyholder for kids
+Beitragsbefreiung - Arbeitslosigkeit,product.accident.coverage.unemployment,Beitragsbefreiung bei Arbeitslosigkeit,nicht versichert,"versichert, bis zu 12 Monate","versichert, bis zu 36 Monate",nicht versichert,,,D.1.7,Waiver of premium in case of unemployment
+Besitzstandsklausel,product.accident.coverage.better-performance-guarantee,Besitzstandsgarantie,nein,nein,nein,"versichert, zeitlich unbegrenzt",,,D.1.9,Best performance guarantee
+Besondere Bedingungen,product.accident.coverage.cure.sum-insured,Kur - und Rehabilitationsleistung - Zahlungshöhe,nicht versichert,"versichert, begrenzt auf 20.000 €","versichert, begrenzt auf 30.000 €",nicht versichert,,,F.1,Cure and rehabilitation assistance: amount
+,product.accident.coverage.cure.duration,Kur - und Rehabilitationsleistung - Frist zur Geltendmachung,nicht versichert,2 Jahre,3 Jahre,nicht versichert,,,F.1,Cure and rehabilitation assistance: Deadline after accident for claiming
+,,,,,,,,,,
+Insurances,Parameter Name - Assistance - Basic,German Label,Compact - Basis,Comfort - Basis,Comfort+ - Basis,Switch - Basis,Assistance - Premium,Assistance - Premium Plus,Reference to T&C,English Label
+,,,,,,,,,,
+Assistance-Leistungen - Versicherte Personen,product.accident.coverage.assistance.package,Gewählter Assistance-Tarif,,,,Basis,Premium,Premium Plus,,
+Assistance-Leistungen - Welche Leistungen umfassen die gewählten Assistance-Tarife?,product.accident.coverage.assistance.overall-limitation,Maximale Gesamtkostenübernahme,,,,nicht versichert,Bis zu 10.000€,Bis zu 12.500€,F.2,Overall limitation for covering costs
+,product.accident.coverage.assistance.first-consultation,Erstgespräch zur Bedarfsfeststellung,,,,versichert,"Einmalig, maximal 3 Jahre nach Unfall","Einmalig, maximal 3 Jahre nach Unfall",F.2,initial interview to determine the respective need for assistance services   
+,product.accident.coverage.assistance.overview,Informationen zu den Hilfeleistungen,,,,versichert,"Einmalig, maximal 3 Jahre nach Unfall","Einmalig, maximal 3 Jahre nach Unfall",F.2,information about the type and implementation of assistance
+,product.accident.coverage.assistance.risk-prevention,Gesundheitstipps und Prävention,,,,versichert,"Jährlich, maximal 3 Jahre nach Unfall","Jährlich, maximal 3 Jahre nach Unfall",F.2,"tips on health promotion, disease and accident prevention "
+,product.accident.coverage.assistance.finding-medics,"Auffinden von Ärzten, Kliniken und Rehazentren",,,,versichert,Nicht versichert,Nicht versichert,F.2,"assistance in finding doctors, clinics and rehabilitation centers "
+,product.accident.coverage.assistance.outpatient-care,Ambulante häusliche Pflegedienste,,,,versichert,Nicht versichert,Nicht versichert,F.2,outpatient home care services 
+,product.accident.coverage.assistance.psychological-consulting,Psychologische Beratung,,,,versichert,Nicht versichert,Nicht versichert,F.2,psychological counseling
+,product.accident.coverage.assistance.rehab-manager,Rehabilitations-Manager,,,,versichert,"Wöchentlich bis zu 2 Std., Therapien bis 1.000€, max. 2 Monate nach Erstkonsultation, max. 3 Jahre nach Unfall","Wöchentlich bis zu 2 Std., Therapien bis 1.000€, max. 2 Monate nach Erstkonsultation, max. 3 Jahre nach Unfall",F.2,rehabilitation Manager
+,product.accident.coverage.assistance.care-consultation,"Pflegeberatung, Leistungen der Grundpflege",,,,versichert,"Einmalig, maximal 3 Jahre nach Unfall","Einmalig, maximal 3 Jahre nach Unfall",F.2,"care consultation, services of the basic care "
+,product.accident.coverage.assistance.care-training,Pflegeschulung für Angehörige,,,,versichert,"Einmalig, maximal 3 Stunden, maximal 3 Jahre nach Unfall","Einmalig, maximal 3 Stunden, maximal 3 Jahre nach Unfall",F.2,care training for relatives
+,product.accident.coverage.assistance.body-care,Grundpflege,,,,versichert,"Täglich bis zu 3 Stunden, maximal 2 Monate nach Unfall","Täglich bis zu 3 Stunden, maximal 6 Monate nach Unfall",F.2,body care
+,product.accident.coverage.assistance.menu-service,Menüservice,,,,versichert,"Täglich, maximal 2 Monate nach Unfall","Täglich, maximal 6 Monate nach Unfall",F.2,menu service
+,product.accident.coverage.assistance.groceries-and-parcel,"Besorgungen, Einkäufe und Paketservice",,,,versichert,"2 Mal wöchentlich, maximal 25 km, maximal 2 Monate nach Unfall","2 Mal wöchentlich, maximal 25 km, maximal 6 Monate nach Unfall",F.2,"errands, shopping and parcel service"
+,product.accident.coverage.assistance.flat-clean-up,Wohnungsreinigung,,,,versichert,"Wöchentlich bis zu 3 Stunden, maximal 2 Monate nach Unfall","Wöchentlich bis zu 3 Stunden, maximal 6 Monate nach Unfall",F.2,flat clean-up
+,product.accident.coverage.assistance.laundry,Wäscheservice,,,,versichert,"Wöchentlich bis zu 3 Stunden, maximal 2 Monate nach Unfall","Wöchentlich bis zu 3 Stunden, maximal 6 Monate nach Unfall",F.2,laundry service
+,product.accident.coverage.assistance.garden,Garten- und Grundstückspflege,,,,versichert,"Wöchentlich bis zu 3 Stunden, maximal 2 Monate nach Unfall","Wöchentlich bis zu 3 Stunden, maximal 6 Monate nach Unfall",F.2,gardener service
+,product.accident.coverage.assistance.taxi-and-accompaniment,"Fahrdienste, Arzt- und Behördengänge",,,,versichert,"Wöchentlich bis zu 50km, maximal 2 Monate nach Unfall","Wöchentlich bis zu 50km, maximal 6 Monate nach Unfall",F.2,shuttle services 
+,product.accident.coverage.assistance.home-emergency,Hausnotrufanlage,,,,versichert,"Bis zu 500€, maximal 2 Monate nach Unfall","Bis zu 500€, maximal 6 Monate nach Unfall",F.2,Home emergency call system
+,product.accident.coverage.assistance.guard,Tag - und Nachtwache,,,,versichert,Einmalig für maximal 48 Stunden,Einmalig für maximal 48 Stunden,F.2,day and night guard
+,product.accident.coverage.assistance.child-care,Kinderbetreuung,,,,versichert,"Täglich bis zu 8 Std. (in Notfällen 24 Std.), maximal 100€ pro Tag, maximal 30 Tage","Täglich bis zu 8 Std. (in Notfällen 24 Std.), maximal 100€ pro Tag, maximal 30 Tage",F.2,child care 
+,product.accident.coverage.assistance.sibling-care,Betreuung von Geschwistern,,,,versichert,"Täglich bis zu 3 Stunden, maximal 2 Monate nach Unfall","Täglich bis zu 3 Stunden, maximal 6 Monate nach Unfall",F.2,care for siblings
+,product.accident.coverage.assistance.private-tutor,Privatunterricht und Nachhilfelehrer,,,,versichert,"Ab dem 15. Fehltag, maximal 200€ pro Woche, maximal 2 Monate nach Unfall","Ab dem 15. Fehltag, maximal 200€ pro Woche, maximal 6 Monate nach Unfall",F.2,private lessons and private tutors
+,product.accident.coverage.assistance.pet-care,Tierbetreuung,,,,versichert,"Bis zu 300€ pro Woche, maximal 2 Monate nach Unfall","Bis zu 300€ pro Woche, maximal 6 Monate nach Unfall",F.2,pet care 
+,product.accident.coverage.assistance.appointment-conflicts,Benachrichtigung - Terminkonflikten,,,,versichert,Einmalig zu Eintritt des Unfalls,Einmalig zu Eintritt des Unfalls,F.2,notification in case of accident-related appointment conflicts
+,product.accident.coverage.assistance.messenger-service,Nachrichtenübermittlung,,,,versichert,Einmalig zu Eintritt des Unfalls sowie nach Eintritt Unfalltod,Einmalig zu Eintritt des Unfalls sowie nach Eintritt Unfalltod,F.2,messaging to relatives or employer
+,product.accident.coverage.assistance.auxiliaries,Pflegehilfsmittel,,,,versichert,Nicht versichert,Nicht versichert,F.2,care aids (e.g. wheelchair)  
+,product.accident.coverage.assistance.flowers,Blumenversand,,,,versichert,Nicht versichert,Nicht versichert,F.2,flower delivery
+,product.accident.coverage.assistance.reconstruction,"Haus-, Wohnungs- und KFZ-Umrüstung",,,,versichert,Nicht versichert,Nicht versichert,F.2,house / apartment / vehicle reconstruction
+,product.accident.coverage.assistance.document-depot,Dokumentendepot,,,,versichert,Nicht versichert,Nicht versichert,F.2,document deposit
+,product.accident.coverage.assistance.visitation,Krankenbesuch,,,,versichert,"Verpflegung und Übernachtung bis zu 300€, Transportkosten bis 3.000€","Verpflegung und Übernachtung bis zu 300€, Transportkosten bis 3.000€",F.2,visitation to the sick 
+,product.accident.coverage.assistance.service-abroad,Medizinische Assistance im Ausland,,,,versichert,Bis zu 300€,Bis zu 300€,F.2,medical assistance abroad
+,product.accident.coverage.assistance.medical-advice,Medizinische Abklärung bei Unfällen,,,,versichert,"Einmalig, bis zu 300€","Einmalig, bis zu 300€",F.2,medical clarification for accidents
+,product.accident.coverage.assistance.interpretation,Interpretation medizinischer Daten und Aufklärung,,,,versichert,"Bis zu 300€, maximal 3 Monate nach Unfall","Bis zu 300€, maximal 3 Monate nach Unfall",F.2,Help with the interpretation of medical data and information about the side effects of medication
+,product.accident.coverage.assistance.rescue-and-sick-transport,Einsätze und Krankenrücktransport,,,,versichert,Bis zu 10.000€,Bis zu 10.000€,F.2,search / rescue / recovery operations 
+,product.accident.coverage.assistance.corpse-transport-and-funeral,Überführung und Bestattung,,,,versichert,Bis zu 10.000€,Bis zu 10.000€,F.2,"ambulance return transport, repatriation and funeral abroad"
